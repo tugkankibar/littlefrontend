@@ -1,11 +1,3 @@
 # `frontend-client`
 
-> TODO: description
-
-## Usage
-
-```
-const frontendClient = require('frontend-client');
-
-// TODO: DEMONSTRATE API
-```
+Client facing frontend for the LittleFrontend project.
